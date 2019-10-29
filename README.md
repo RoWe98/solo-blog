@@ -39,14 +39,14 @@ Rex's Blog
 * [添加ssh信任，让你的登陆无需密码](https://blog.luoshaoqi.cn/articles/2019/05/29/1569338008255.html)
 * [进程调度](https://blog.luoshaoqi.cn/articles/2019/05/13/1569338001367.html)
 * [Http与Https的区别](https://blog.luoshaoqi.cn/articles/2019/05/24/1569338000147.html)
+* [markdown教程](https://blog.luoshaoqi.cn/articles/2019/05/15/1569338004948.html)
 * [给网站添加HTTPS(添加SSL证书)](https://blog.luoshaoqi.cn/articles/2019/05/21/1569338007058.html)
 * [mac系统下更改hosts提高github clone速度](https://blog.luoshaoqi.cn/articles/2019/05/13/1569338011970.html)
 * [从头开始编写一个五子棋的博弈游戏(Java)(第一期)](https://blog.luoshaoqi.cn/articles/2019/06/06/1569338011334.html)
 * [七牛云配置二级域名，从而避免七牛云30天自动更改域名的问题](https://blog.luoshaoqi.cn/articles/2019/06/03/1569338001699.html)
-* [markdown教程](https://blog.luoshaoqi.cn/articles/2019/05/15/1569338004948.html)
 * [智慧教室树莓派端开发文档](https://blog.luoshaoqi.cn/articles/2019/05/21/1569338005280.html)
-* [智慧教室树莓派篇工作日志](https://blog.luoshaoqi.cn/articles/2019/05/11/1569338002425.html)
 * [windows10 1903 + Windows Terminal 体验](https://blog.luoshaoqi.cn/articles/2019/06/01/1569338009257.html)
+* [智慧教室树莓派篇工作日志](https://blog.luoshaoqi.cn/articles/2019/05/11/1569338002425.html)
 
 
 
